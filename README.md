@@ -1,5 +1,5 @@
 # Hey, I'm Tom.
-IE Business School, London, Madrid, Paris. Dual Business + Data Analytics. I build things that sit between finance and software. what's public is below.
+IE Business School, London, Madrid, Paris. Dual Business + Data Analytics.
 
 ### Projects
 
